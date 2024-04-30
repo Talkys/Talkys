@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello There...
+
+My top languages by skill:
+
+![golang](/imgs/golang.png "golang")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![python](/imgs/python.png "python")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![c++](/imgs/cpp.png "c++")
+
 
 <!--
 **Talkys/Talkys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
