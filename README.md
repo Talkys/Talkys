@@ -1,33 +1,37 @@
-# Talkys
+```markdown
+### Hi there
 
-Low-level development enthusiast | OS tinkerer | Embedded systems hobbyist
+```c
+// Low-level development enthusiast | OS tinkerer | Embedded systems hobbyist
 
----
+```
 
 ## About Me
 
-I'm a developer focused on computing from the ground up. I enjoy working close to the metal — whether it's writing operating systems or building embedded systems from scratch, but doing a bit of everything now and then.
+I'm a developer focused on computing from the ground up. I love working close to the metal, whether it's writing operating systems from scratch, tinkering with embedded hardware, or diving into unexpected tech stacks.
 
-### Interests
+### Tech Stack & Interests
 
-- Operating system development and systems programming
-- Embedded hardware projects and bare-metal development
-- Programming in **C**, **Assembly**, **Go**, and **Python**
-- Exploring niche technologies like **COBOL** (IBM certified)
+* **Systems & Low-Level:** Operating system development, bare-metal programming, embedded hardware
+* **Languages:** C, Assembly, Go, Python
+* **Niche & Legacy:** COBOL (IBM Certified)
 
 ---
 
 ## Featured Projects
 
-- Check the main page [here](http://talkys.github.io/ ).
+* Check out my main page and portfolio at **[talkys.github.io](http://talkys.github.io/)**.
 
 ---
 
-## Contact
+## Connect With Me
 
-If you’d like to connect or discuss a project, feel free to reach out:  
-**Email:** tallys.comercial@gmail.com
+* **Email:** [tallys.comercial@gmail.com](https://www.google.com/search?q=mailto%3Atallys.comercial%40gmail.com)
 
 ---
 
-> "Making dumb code"
+> *"Making dumb code"*
+
+```
+
+```
