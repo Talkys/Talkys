@@ -1,10 +1,7 @@
-```markdown
 ### Hi there
 
 ```c
 // Low-level development enthusiast | OS tinkerer | Embedded systems hobbyist
-
-```
 
 ## About Me
 
