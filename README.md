@@ -27,7 +27,3 @@ I'm a developer focused on computing from the ground up. I love working close to
 ---
 
 > *"Making dumb code"*
-
-```
-
-```
