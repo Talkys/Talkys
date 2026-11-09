@@ -1,7 +1,6 @@
-### Hi there
+### Hi there, I'm Talkys
 
-```c
-// Low-level development enthusiast | OS tinkerer | Embedded systems hobbyist
+Low-level development enthusiast | OS tinkerer | Embedded systems hobbyist
 
 ## About Me
 
