@@ -17,13 +17,6 @@ I'm a developer focused on computing from the ground up. I enjoy working close t
 
 ---
 
-## What I'm Working On
-
-- A hobbyist **RISC-V operating system** (early stages, with UART support)
-- Expanding my **embedded systems portfolio** with real-world hardware projects, you can check it [here](https://talkys-embedded-blog.onrender.com/)
-
----
-
 ## Featured Projects
 
 - Check the main page [here](http://talkys.github.io/ ).
